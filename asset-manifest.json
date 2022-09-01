@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Food-Recipe-Project/static/css/main.b4689726.css",
+    "main.js": "/Food-Recipe-Project/static/js/main.b5bf0aa2.js",
+    "static/js/787.5dc0e2a0.chunk.js": "/Food-Recipe-Project/static/js/787.5dc0e2a0.chunk.js",
+    "static/media/slider-img-1.jpg": "/Food-Recipe-Project/static/media/slider-img-1.57ad21408e61d05d9e45.jpg",
+    "index.html": "/Food-Recipe-Project/index.html",
+    "main.b4689726.css.map": "/Food-Recipe-Project/static/css/main.b4689726.css.map",
+    "main.b5bf0aa2.js.map": "/Food-Recipe-Project/static/js/main.b5bf0aa2.js.map",
+    "787.5dc0e2a0.chunk.js.map": "/Food-Recipe-Project/static/js/787.5dc0e2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4689726.css",
+    "static/js/main.b5bf0aa2.js"
+  ]
+}
